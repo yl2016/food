@@ -1,0 +1,18 @@
+section nav{margin:0 auto;}
+section img{display:block;}
+section hgroup{padding-left:20px;height:55px;line-height:55px;background-color:#8a6c52;}
+section hgroup p{cursor:pointer;color:#de9f69;font:24px "新宋体";display:inline-block;}
+section hgroup a{color:#de9f69;}
+section .menu{background-color:#ccc;}
+section .menu ul{padding-bottom:20px;}
+section .menu ul li span{font:24px "新宋体";color:#de9f69;}
+section .menu ul{height:194px;overflow:hidden;}
+section .menu ul li{width:30%;margin-left:15px;float:left;text-align:center;padding:20px 0;}
+section .menu ul li img{margin-bottom:10px;}
+section article{background:#c7c4bb;padding-top:10px;}
+section article ul{overflow:hidden;}
+section article ul li{width:160px;height:173px;box-sizing:border-box;padding:20px 0;margin-left:40px;margin-top:20px;margin-bottom:20px;float:left;background:#fff; }
+section article ul li img{margin:0 auto;transition:all 1s;}
+section article ul li span{padding-left:40px;font:24px "新宋体";color:#de9f69;}
+section article ul li:hover img{transform:rotate(360deg);}
+section article ul li:hover span{color:red;}

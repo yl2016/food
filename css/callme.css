@@ -1,0 +1,8 @@
+section article{background-color:#c7c4bb;}
+article h2{background:#8a6c52;margin-bottom:10px;color:#de9f69;font:24px "新宋体";padding:10px 20px;}
+article ul{margin-left:130px;}
+article ul li{padding:10px 10px;font-size:16px;}
+article ul li span{color:#f00;}
+article form ul li label{display:inline-block;width:100px;text-align:left;}
+article form ul li input,article form ul li textarea{width:200px;}
+article form ul li:nth-child(6) input{width:50px;background:#ee9f16;border:0;cursor:pointer;}

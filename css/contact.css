@@ -1,0 +1,15 @@
+section .nav{height:100px;background-color:#ee9f16;}
+section .nav h2{color:#c7c4bb;font-size:40px;display:inline-block;line-height:100px;padding-left:60px;background:url(../images/logo4.png) left center no-repeat;margin-left:20px;}
+section article{background-color:#c7c4bb;}
+section article ul li{padding:20px;overflow:hidden;}
+section article ul li img{border:1px solid #ee9f16;float:left;margin-right:20px;transition:0.6s all linear;}
+section article ul li img:hover{border:3px solid white;border-radius:50%;}
+section article ul li span{display:block;color:white;font-size:16px;text-indent:2em;transition:0.6s all linear;}
+section article ul li span:hover{color:#ee9f16;transform:scale(1.1);}
+section article ul li h3{font-size:20px;font-weight: bolder;display:inline-block;margin-bottom:10px;}
+section article ul li h3:hover{color:#f00;}
+section article ul li:nth-child(4){text-align:center;}
+section article ul li:nth-child(4) a{font-size:20px;color:#fff;}
+section article ul li:nth-child(4) a:hover{color:#f00;}
+section article nav{width:200px;height:774px;float:left;background-color:black;}
+section article nav span{color:white;position:absolute;}

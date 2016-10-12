@@ -1,0 +1,12 @@
+article{background:#c7c4bb;}
+article hgroup{background:#8a6c52;}
+article hgroup h2,article hgroup a{display:inline-block;color:#de9f69;font:24px "新宋体";padding:10px 20px;}
+article hgroup a:hover{color:#f00;}
+article figure{overflow:hidden;padding:20px 10px;}
+article figure img{float:left;transition:0.4s linear;margin-right:20px;border:1px solid #fff;}
+article figure img:hover{transform:scale(1.1);}
+article figure figcaption a{font-size:20px;color:#000;}
+article figure figcaption a:hover{color:#f00;text-decoration:underline;}
+article figure p{text-indent:2em;color:#fff;font-size:16px;}
+article a.more{font-size:20px;color:#fff;display:block;margin:20px;}
+article a.more:hover{color:#f00;}

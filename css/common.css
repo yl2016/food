@@ -1,0 +1,13 @@
+section{width:640px;margin:0 auto;}
+section header{background-color:black;height:134px;}
+section header .left{float:left;width:20%;margin:0;margin-top:32px;}
+section header .left img{transition:0.5s all linear;}
+section header .left img:hover{transform:scale(1.2);}
+section header .right{float:left;width:20%;margin:0;margin-top:3px;margin-left:20px;}
+section header .right img{display:block;}
+section footer{background-color:black;height:50px;line-height:50px;}
+section footer ul{margin-left:63px;}
+section footer ul li{float:left;}
+section footer a,section footer span{color:#de9f69;font-size:16px;}
+section footer span{padding:0 10px;}
+section footer a:hover{color:#f00;}

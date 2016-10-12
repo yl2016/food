@@ -1,0 +1,9 @@
+article{background:#c7c4bb;}
+article hgroup{background:#8a6c52;margin-bottom:10px;}
+article hgroup h2{display:inline-block;color:#de9f69;font:24px "新宋体";padding:10px 20px;}
+article p{text-indent:2em;font-size:16px;color:#fff;line-height:30px;margin:0 20px;}
+article ul{overflow:hidden;padding-right:10px;margin-top:10px;}
+article ul li{float:left;margin-left:10px;text-align:center;}
+article ul li img{display:block;transition:all 0.6s linear;}
+article ul li img:hover{transform:scale(1.2);border-radius:50px;}
+article ul li span{font-size:16px;margin:10px 0;display:block;}
